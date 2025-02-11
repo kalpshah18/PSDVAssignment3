@@ -1,10 +1,10 @@
 # README - PSDV Assignment
 
-## Project Title
-Assignment 3
+## Assignment 3
+Pollution Level and NCAP Funding Data Analysis
 
 ## Course
-Probability, Statistics, and Data Visualization (PSDV)
+ES114: Probability, Statistics, and Data Visualization (PSDV)
 
 ## Author
 Kalp Shah
