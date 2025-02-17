@@ -32,8 +32,6 @@ Make sure you have the following dependencies installed:
 - Seaborn
 - Geopandas
 
-Add the Given Dataset: https://drive.google.com/drive/folders/1K8xQMvFro5uno4erOhCdsL3b5I5frdgS under a new Folder: PSDV_Assignment_3_Data
-
 ## Installation
 1. Clone this repository:
    ```bash
@@ -47,6 +45,8 @@ Add the Given Dataset: https://drive.google.com/drive/folders/1K8xQMvFro5uno4erO
    ```bash
    pip install -r requirements.txt
    ```
+4. Add the Given Dataset: https://drive.google.com/drive/folders/1K8xQMvFro5uno4erOhCdsL3b5I5frdgS under a new Folder: PSDV_Assignment_3_Data\
+![Directory Structure](./fileStructure.png)
 
 ## Usage
 Run the main script to execute the analysis:
@@ -57,6 +57,7 @@ jupyter lab main.ipynb
 ## Files and Directories
 - `main.ipynb` - Main script to run the analysis
 - `README.md` - Project documentation
+- `PSDV_Assignment_3_Data` - Dataset
 
 ## Results
 Include key findings, graphs, and insights derived from the analysis.
