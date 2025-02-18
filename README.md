@@ -45,8 +45,6 @@ Make sure you have the following dependencies installed:
    ```bash
    pip install -r requirements.txt
    ```
-4. Add the Given Dataset: https://drive.google.com/drive/folders/1K8xQMvFro5uno4erOhCdsL3b5I5frdgS under a new Folder: PSDV_Assignment_3_Data\
-![Directory Structure](./fileStructure.png)
 
 ## Usage
 Run the main script to execute the analysis:
